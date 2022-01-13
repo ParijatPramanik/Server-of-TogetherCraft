@@ -1,2 +1,2 @@
-# Server-of-TogerCraft
+# Server-of-TogetherCraft
 THE GAZETTE OF THE SERVER
