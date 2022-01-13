@@ -1,2 +1,2 @@
-# Server-of-TogetherCraft
+# TogetherCraft
 THE GAZETTE OF THE SERVER
